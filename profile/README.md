@@ -3,7 +3,7 @@
 ![Logo](/profile/assets/banner.png)
 
 <p align="center"> 
-<i> Bitroid is an innovative tech company dedicated to transforming digital landscapes with creative and adaptable solutions. We focus on enhancing user experiences across diverse domains, driven by a relentless commitment to excellence. With a proven track record of delivering cutting-edge products and unparalleled customer satisfaction, we are constantly pushing boundaries and staying at the forefront of innovation. <a href="https://bitroid.dev">Learn More</a> 
+<i> Bitroid is an innovative tech company dedicated to transforming digital landscapes with creative and adaptable solutions. We focus on enhancing user experiences across diverse domains, driven by a relentless commitment to excellence. With a proven track record of delivering cutting-edge products and unparalleled customer satisfaction, we are constantly pushing boundaries and staying at the forefront of innovation. <a href="https://bitroid.dev">Learn More</a>.
 </i> 
 </p>
 
@@ -27,10 +27,10 @@
 <br>
 
 
-<h2 align="center">Builds. By Bitroid</h2>
+<h2 align="center">Builds. by Bitroid</h2>
 
 
-<p align="center"><i>Builds by Bitroid specializes in helping individuals, startups, and organizations expand their business presence. Whether you need a website to attract a global audience or an application to keep your users engaged, we have the expertise to meet your needs. Our services cover everything from building impactful websites to developing engaging applications, ensuring that your business reaches its full potential in the digital landscape. <a href="https://builds.bitroid.dev/">Learn More</a> </i></p>
+<p align="center"><i>Builds by Bitroid specializes in helping individuals, startups, and organizations expand their business presence. Whether you need a website to attract a global audience or an application to keep your users engaged, we have the expertise to meet your needs. Our services cover everything from building impactful websites to developing engaging applications, ensuring that your business reaches its full potential in the digital landscape. <a href="https://builds.bitroid.dev/">Learn More</a>.</i></p>
 
 
 
@@ -42,9 +42,9 @@
 <h2 align="center">More Info</h2>
 
 
-📩 Any queries? [Get in Touch ](mailto:support@bitroid.dev) with us
+📩 Any queries ? [Get in Touch ](mailto:support@bitroid.dev) with us.
 
-⭐ Star us on [GitHub](https://github.com/BitroidHQ/.github)
+⭐ Star us on [GitHub](https://github.com/BitroidHQ/.github).
 
-🤵 Want to join our team ? [Click here](https://bitroid.dev/join-us) to know more 
+🤵 Want to join our team ? [Click here](https://bitroid.dev/join-us) to know more.
 
