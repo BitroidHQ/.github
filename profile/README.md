@@ -30,7 +30,7 @@
 <h2 align="center">Builds. by Bitroid</h2>
 
 
-<p align="center"><i>Builds by Bitroid specializes in helping individuals, startups, and organizations expand their business presence. Whether you need a website to attract a global audience or an application to keep your users engaged, we have the expertise to meet your needs. Our services cover everything from building impactful websites to developing engaging applications, ensuring that your business reaches its full potential in the digital landscape. <a href="https://builds.bitroid.dev/">Learn More</a>.</i></p>
+<p align="center"><i>Builds. by Bitroid specializes in helping individuals, startups, and organizations expand their business presence. Whether you need a website to attract a global audience or an application to keep your users engaged, we have the expertise to meet your needs. Our services cover everything from building impactful websites to developing engaging applications, ensuring that your business reaches its full potential in the digital landscape. <a href="https://builds.bitroid.dev/">Learn More</a>.</i></p>
 
 
 
